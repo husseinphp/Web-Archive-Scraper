@@ -16,7 +16,7 @@ To run the script, use the following command:
 
 ``python was.py -l <linkfile> -e <extensions>``
 
-``python was.py -l er.txt -e php html ``
+``python was.py -l liveurls.txt -e php html ``
 
 ## Output :floppy_disk:	
 > Text File: All fetched URLs are saved in a urls.txt file.
